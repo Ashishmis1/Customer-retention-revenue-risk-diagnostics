@@ -5,7 +5,7 @@ End-to-End Customer Churn Prediction Pipeline using Python (Random Forest) and P
 # 🏢 Business Overview
 Customer churn is a critical expense for telecommunication providers. This project is an end-to-end data pipeline and machine learning model designed to predict *who* is going to leave, quantify the *financial impact*, and provide a localized, actionable retention strategy.
 
-# 🛠️ Tech Stack & Methodology
+# 🛠️ Tech Stack & Methodology 
 * Data Manipulation: Extracted and cleaned customer demographic, contract, and billing data using Python (Pandas).
 * Predictive Modeling: Trained and optimized a Random Forest Classifier using Scikit-Learn. The model achieved **85% accuracy** in identifying high-flight-risk customers.
 * Data Visualization: Built an interactive executive dashboard in Power BI, utilizing DAX to translate ML predictions into business strategy.
