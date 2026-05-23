@@ -1,6 +1,6 @@
-# Customer-retention-revenue-risk-diagnostics
-End-to-End Customer Churn Prediction Pipeline using Python (Random Forest) and Power BI
+
 # 📊 Customer Retention & Revenue Risk Diagnostics
+End-to-End Customer Churn Prediction Pipeline using Python (Random Forest) and Power BI
 
 # 🏢 Business Overview
 Customer churn is a critical expense for telecommunication providers. This project is an end-to-end data pipeline and machine learning model designed to predict *who* is going to leave, quantify the *financial impact*, and provide a localized, actionable retention strategy.
