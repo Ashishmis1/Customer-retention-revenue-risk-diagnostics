@@ -63,4 +63,3 @@ SELECT *
 FROM stg_CleanedCustomerData
 WHERE Customer_Status = 'Joined';
 GO
-Format SQL data cleaning and view creation script
